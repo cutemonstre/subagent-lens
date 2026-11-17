@@ -4,7 +4,7 @@ A Claude Code mod that adds a band above the prompt. Each running subagent gets 
 
 ![Illustration of the Subagent Lens band: two running subagents, each with its model, effort, elapsed time and a Stop button](docs/lens.png)
 
-*Illustration of the band. In Claude Code it follows your app theme.*
+*Illustration of the band (not a screenshot of the app).*
 
 ## Why
 

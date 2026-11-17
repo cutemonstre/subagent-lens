@@ -2,7 +2,9 @@
 
 A Claude Code mod that adds a band above the prompt. Each running subagent gets one row showing its model, effort, type, task and elapsed time, with a Stop button.
 
-<!-- screenshot -->
+![Illustration of the Subagent Lens band: two running subagents, each with its model, effort, elapsed time and a Stop button](docs/lens.png)
+
+*Illustration of the band. In Claude Code it follows your app theme.*
 
 ## Why
 

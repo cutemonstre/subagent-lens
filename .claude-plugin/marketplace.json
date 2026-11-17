@@ -1,0 +1,12 @@
+{
+  "name": "cutemonstre",
+  "owner": { "name": "cutemonstre" },
+  "homepage": "https://github.com/cutemonstre/subagent-lens",
+  "plugins": [
+    {
+      "name": "subagent-lens",
+      "source": "./",
+      "description": "Live band above the prompt showing each running subagent's model, effort, type, task and elapsed time, with a Stop button."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "subagent-lens",
+  "version": "0.1.0",
+  "description": "Live band above the prompt showing each running subagent's model, effort, type, task and elapsed time, with a Stop button.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Khairul Amirin"
+  },
+  "repository": "https://github.com/cutemonstre/subagent-lens"
+}
